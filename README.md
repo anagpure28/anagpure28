@@ -1,10 +1,8 @@
 <h1 align="center">Hi 👋, I'm Aniket Nagpure</h1>
 <h3 align="center">A Passionate Frontend Developer from India</h3>
-<img align="right" alt="coding" width="400" src="https://t4.ftcdn.net/jpg/01/35/92/85/360_F_135928597_xU5EzKq6vpOeXPX5vsbI48zfVVkSRlrF.jpg"/>
+<img align="right" alt="coding" width="400" src="https://i.pinimg.com/originals/cd/59/d6/cd59d626dc86397fe45080e6e9c7027d.gif"/>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=anagpure28&label=Profile%20views&color=0e75b6&style=flat" alt="anagpure28" /> </p>
-
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=anagpure28" alt="anagpure28" /></a> </p>
 
 - 🌱 I’m currently learning **ReactJs**
 
