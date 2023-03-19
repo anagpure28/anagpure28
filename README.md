@@ -2,12 +2,7 @@
     alt="Git" />
      
 <h1 align="center">Hi 👋, I'm Aniket Nagpure</h1>
-<h3 align="center">An analytical and detail-oriented aspiring
-FrontEnd Developer. Capable of
-writing production-ready code using
-NodeJs. Passionate about coding
-and intensely interested in working in a
-product-based company.
+<h3 align="center">An enthusiastic Full Stack Developer, a lifelong learner, skilled in Front-End Web Development. Aims to leverage knowledge and build premium websites
 </h3>
 
 <p align="center" color:"red">
