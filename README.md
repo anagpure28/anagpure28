@@ -1,3 +1,4 @@
+ <img align="left" src="https://media.tenor.com/Ug6cbVA1ZsMAAAAd/developer.gif" width="50%" height="320px"/>
  <img align="left" src="https://media.giphy.com/media/W5eoZHPpUx9sapR0eu/giphy.gif" width="100%" height="10px"
     alt="Git" />
      
