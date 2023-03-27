@@ -57,7 +57,7 @@
       
    - 🌱 I’m currently learning at Masai
       
-      - 📄 Check out my <a href="https://www.canva.com/design/DAFcRN_Fth0/t8ztQDXwnxDJ2f03BLqHNQ/view?utm_content=DAFcRN_Fth0&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton" target="_blank" >Resume</a>
+      - 📄 Check out my <a href="https://drive.google.com/file/d/1Bhz60cCAluvDND0STlF7OswR8UJKUvdP/view?usp=sharing" target="_blank" >Resume</a>
       
       - 💻 Know more about me <a href="https://anagpure28.github.io/" target="_blank"  >Portfolio</a>
       
