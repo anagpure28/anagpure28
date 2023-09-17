@@ -63,6 +63,8 @@
 📫 How to reach me **aniketnagpureofficial@gmail.com**<br><br>
 📁 Check my **[Resume](https://drive.google.com/file/d/1GcYbXrLwf2yxK4e9sVYqd4Cc1itBnLP3/view?usp=sharing)**<br><br>
 👨‍💻 Check out my **[Portfolio](https://anagpure28.github.io/)**<br><br>
+🌐 Connect with me **https://www.linkedin.com/in/aniket-nagpure-03aa711b7/
+
  
 <hr>
 
