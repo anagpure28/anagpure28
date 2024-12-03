@@ -61,7 +61,7 @@
 🌱 I’m currently learning **Node.js | MongoDB | SQL**<br><br>
 💬 Ask me about **HTML | CSS | JavaScript | ReactJS | Redux | React Native**<br><br>
 📫 How to reach me **aniketnagpureofficial@gmail.com**<br><br>
-📁 Check my **[Resume](https://drive.google.com/file/d/1GcYbXrLwf2yxK4e9sVYqd4Cc1itBnLP3/view?usp=sharing)**<br><br>
+📁 Check my **[Resume](https://drive.google.com/file/d/1o77qflybMNkRnkJ1Rot-68bO4Sp-_mqv/view?usp=drive_link)**<br><br>
 👨‍💻 Check out my **[Portfolio](https://anagpure28.github.io/)**<br><br>
 🌐 Connect with me **[LinkedIn](https://www.linkedin.com/in/aniket-nagpure-03aa711b7/)**<br><br>
 
